@@ -1,16 +1,15 @@
 
-<p align="center"><img align="center" width="280" src="./.github/logo-dark.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/logo-light.svg#gh-light-mode-only"/></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,ts" />
   <br/>
-  <a href="https://discord.movie-web.app"><kbd>🔵 discord</kbd></a> <a href="https://movie-web.app"><kbd>🟢 website</kbd></a>
+   <a href="https://movie-web-me.vercel.app"><kbd>🟢 website</kbd></a>
 </p>
 <br/><br/>
 
 # ⚡What is movie-web?
 
-movie-web is a web app for watching movies easily. Check it out at <a href="https://movie-web.app"><kbd>movie-web.app</kbd></a>.
+movie-web is a web app for watching movies easily. Check it out at <a href="https://movie-web-me.vercel.app"><kbd>movie-web-me.vercel.app</kbd></a>.
 
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
@@ -53,15 +52,7 @@ pnpm build
 > [!TIP]
 > You must use pnpm (`npm i -g pnpm`) and run NodeJS 20
 
-# 🥔 Selfhosting
 
-A simple guide has been written to assist in hosting your own instance of movie-web. Check it out below
-
-|[Selfhosting guide](https://docs.movie-web.app)|
-|---|
 
 ## 🤝 Thanks to all Contributors
 This project would not be possible without our amazing contributors and the community. Thanks a lot! Keep rocking 🍻.
-
-[![Contributors](https://contrib.rocks/image?repo=movie-web/movie-web)](https://github.com/movie-web/movie-web/graphs/contributors)
-
